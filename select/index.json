@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "光へ",
+  "base_artist": "フランシュシュ",
+  "createdAt": "2026-03-22T09:39:43.384854Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "光へ - TV size",
+      "artist": "フランシュシュ",
+      "has_synced": false,
+      "path": "select/01_光へ_-_TV_size_フランシュシュ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "光へ (TVサイズ)",
+      "artist": "フランシュシュ",
+      "has_synced": false,
+      "path": "select/02_光へ_(TVサイズ)_フランシュシュ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "光へ - with7号ver.",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/03_光へ_-_with7号ver._フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "光へ (with7号ver.)",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/04_光へ_(with7号ver.)_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "光へ",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/05_光へ_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "光へ (TV size)",
+      "artist": "FranChouChou",
+      "has_synced": false,
+      "path": "select/06_光へ_(TV_size)_FranChouChou.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "光へ",
+      "artist": "フランシュシュ",
+      "has_synced": true,
+      "path": "select/07_光へ_フランシュシュ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "光へ ~I pray to be given~",
+      "artist": "Okui, Masami",
+      "has_synced": false,
+      "path": "select/08_光へ_~I_pray_to_be_given~_Okui,_Masami.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "光へ ~I pray to be given~",
+      "artist": "奥井雅美",
+      "has_synced": false,
+      "path": "select/09_光へ_~I_pray_to_be_given~_奥井雅美.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "光へ ~crossroads~",
+      "artist": "奥井雅美",
+      "has_synced": false,
+      "path": "select/10_光へ_~crossroads~_奥井雅美.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "光へ ~crossroads~",
+      "artist": "Okui, Masami",
+      "has_synced": false,
+      "path": "select/11_光へ_~crossroads~_Okui,_Masami.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "光へ～I pray to be given～",
+      "artist": "奥井雅美",
+      "has_synced": false,
+      "path": "select/12_光へ~I_pray_to_be_given~_奥井雅美.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "光へ～crossroads～",
+      "artist": "奥井雅美",
+      "has_synced": false,
+      "path": "select/13_光へ~crossroads~_奥井雅美.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "光へ",
+      "artist": "フランシュシュ (本渡楓, 田野アサミ, 種田梨沙, 河瀬茉希, 衣川里佳, 田中美海)",
+      "has_synced": true,
+      "path": "select/14_光へ_フランシュシュ_(本渡楓,_田野アサミ,_種田梨沙,_河瀬茉希,_衣川里佳,_田中美海).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "光へ",
+      "artist": "フランシュシュ",
+      "has_synced": false,
+      "path": "select/pl_01_光へ_フランシュシュ.txt"
+    }
+  ]
+}
